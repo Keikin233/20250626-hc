@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body {
+    font-family: serif;
+    /* font-family: "Arial", "Meiryo", sans-serif; */
+}
+
+h2 {
+    font-family: "游ゴシック", sans-serif;
+    font-size: 30px;
+    color: hotpink;
+}
